@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Pesky Mac OS files
+.DS_Store
+.DS_Store?
+
+# Backend virtual environment
+./backend/.venv
+
+# VSCode settings
+.vscode/
